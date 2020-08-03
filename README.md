@@ -6,6 +6,5 @@ The main objective for this homework assignment was to create an application tha
 # Link to deployed website:
 https://haverab.github.io/Password-Generator/
 
-
- 
+![PG-image](https://github.com/haverab/Password-Generator/blob/master/PG%20image.JPG)
 
